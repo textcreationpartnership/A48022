@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Letter from a minister of the Church of England to the pretended Baptist, author of the Three considerations, directed to Mr. Penn allowed to be published this 10th day of September, 1688.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48022</idno><idno type="EEBO-CITATION">27372886</idno>
+  <idno type="VID">110090</idno>
+  <idno type="EEBO-PROQUEST">2248531192</idno>
+  
+            <idno type="STC">Wing L1417</idno>
+            <idno type="STC">ESTC R43386</idno>
+            <idno type="OCLC">27372886</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A48022)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110090)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1725:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Letter from a minister of the Church of England to the pretended Baptist, author of the Three considerations, directed to Mr. Penn allowed to be published this 10th day of September, 1688.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Sold at the Three Keys ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Comber, Thomas, 1645-1699. --  Three considerations directed to William Penn.</term>
+               <term type="uniform_title">Three considerations directed to William Penn.</term>
+               <term type="topical_term">Dissenters, Religious --  Legal status, laws, etc.</term>
+               <term type="geographic_name">Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110090:1"/>
+            <p>A LETTER From a Minister of the <hi>Church of England,</hi> To the pretended BAPTIST, Author of the <hi>Three Considerations</hi> Directed to Mr Penn.</p>
+            <p>Allowed to be Published this 10th Day of <hi>September,</hi> 1688.</p>
+            <p>Sold at the <hi>Three Keys,</hi> in <hi>Nags-Head-Court,</hi> in <hi>Grace-Church-Street,</hi> over-against the <hi>Conduit,</hi> 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:110090:2"/>
+            <pb n="3" facs="tcp:110090:2"/>
+            <head>A <hi>Letter</hi> from a Minister of the Church of <hi>England,</hi> &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THO I very much Question whether you be of that Communion which the Title of your Pa<g ref="char:EOLhyphen"/>per would make us believe you are, and have perhaps some reason to guess your Name, yet I will pass by all personal Reflections, and only consider these Particulars which you are pleas'd to fancy are of so great Importance; I must profess the Task uneasie, because there is nothing offer'd that deserves an An<g ref="char:EOLhyphen"/>swer, but seeing your Party are ready to magnifie the smal<g ref="char:EOLhyphen"/>est Trifle, I will trace you in every Argument and Insi<g ref="char:EOLhyphen"/>nuation.</p>
+            <p>I hope you will not take it ill, to find your Questions re<g ref="char:EOLhyphen"/>ply'd to, by a <hi>Church of England Man,</hi> One who hath Suf<g ref="char:EOLhyphen"/>fer'd, Preach'd and Wrote in behalf of that Church, who therefore thinks himself obliged to justifie the proceedings of many of her Faithful Sons, whose Reason tells them, That an Universal Liberty is not only the Duty of all <hi>Protestants</hi> to promote, but <hi>their Interest</hi> lies in obtaining and settling it by Law at this time.</p>
+            <p>And here, <hi>Sir,</hi> instead of your loose way of Questioning, it would have been more to the purpose, to have shewn that the <hi>Test</hi> and <hi>Penal Laws</hi> are a greater Security then the <hi>Magna Charta</hi> for <hi>Liberty of Conscience,</hi> which you endea<g ref="char:EOLhyphen"/>vour to expose as a vain Speculation; for if we should grant all you advance against it, as long as the same Inconveniences attend the <hi>Penal and Test Laws,</hi> your own Argument must
+<pb n="4" facs="tcp:110090:3"/>be a great inducement to a considering Person to endeavour their Repeal, and that this is the real case, will appear by your Questions.</p>
+            <p n="1">1. You demand, <hi>What Security can any future New Law or Charter be, when so many of the present Laws are Dispensed with;</hi> which is the sum of your first Query.</p>
+            <p>To which I Answer, That such a Law, simply Esta<g ref="char:EOLhyphen"/>blished, will be of as great Validity as the <hi>Penal Laws</hi> and <hi>Tests,</hi> which you complain are Dispensed with; you can<g ref="char:EOLhyphen"/>not have so little sence as not to know that a <hi>Magna Charta</hi> for <hi>Liberty,</hi> making it highly Penal, for any Party to in<g ref="char:EOLhyphen"/>fringe it, will as effectually secure the <hi>Protestant Religion,</hi> which I suppose you would be thought a Champion for, as those Laws which are complain'd of by above half the Na<g ref="char:EOLhyphen"/>tion, so that all you have to fear is the exercise of the Dis<g ref="char:EOLhyphen"/>pensing Power, which is either a Right belonging to the Crown or not, if it be, why should we attempt to lessen the Prerogative? if it be not, you have your Remedy at Law; but whether it be or no, the Argument lies so strong against you, that I believe you will find it hard to Answer this Query.</p>
+            <p>If the <hi>Magna Charta</hi> so much desired, be (as none can deny) as great a Security as the present <hi>Penal Laws,</hi> which are as liable to a Dispensation, as that can be; then is it not better to please the <hi>King,</hi> and to gratifie so many Thousands, by Establishing it, when it leaves us in no worse Condition then we were before; then to offend the one, exasperate the other, and increase Mens Heats and Animosities by con<g ref="char:EOLhyphen"/>tinuing them?</p>
+            <p>But if you would have reflected on what hath been so often urg'd, That the <hi>King</hi> never pretended to Dispence with any thing evil in its own Nature, as <hi>Theft, Polygamy,
+<pb n="5" facs="tcp:110090:3"/>Adultery</hi> and <hi>Murder, &amp;c.</hi> and remember that by this <hi>Mag<g ref="char:EOLhyphen"/>na Charta</hi> all manner of Persecution for Conscience will be declared an Evil in it self, you could not but have seen, that it will signifie much more then the Laws you contend for, which for that reason are Dispensed with, because they respect only <hi>prohibited,</hi> and not male Evils, now tho the Dispensing Power will affect the first, yet the greatest As<g ref="char:EOLhyphen"/>sertors of it acknowledge it cannot reach the last.</p>
+            <p>I will grant you therefore, that as Mr <hi>Langhorn</hi> says, <hi>The King may lawfully dispence with</hi> Penal Laws, <hi>and that he cannot give away, tho he may suspend the exercise of that Power;</hi> and yet this <hi>Magna Charta</hi> is a very great Security, which neither can be Invalidated, Disanul'd, or Annihilated with<g ref="char:EOLhyphen"/>out an Act of Parliament, because it forbids a moral Evil, which all acknowledge the <hi>King</hi> cannot Dispence with.</p>
+            <p n="2">2. And now of what force is your Second Query, where<g ref="char:EOLhyphen"/>by you would Invalidate that excellent design; as pretend the Ecclesiastical Commissioners can suspend the <hi>Dissen<g ref="char:EOLhyphen"/>ters</hi> as well as the <hi>Conformists</hi> Preachers; for still allowing what you insinuate, doth this <hi>Magna Charta</hi> give them any more power to do it? if not, what is their Commission to this matter, if it doth, you would do well to shew it. Pray, Sir, will you allow of this Argument, you ought not to accept of this present Liberty, because the <hi>King</hi> can recal it when he pleases; I suppose you will deny the Consequence, and so furnish me with an Answer to your Query; for if we must not accept of a <hi>Magna Charta,</hi> because of the pretence you urge, there is the same reason for you to decline the present Liberty: But you forget that this Ecclesiastical headship came by Law, that is the founda<g ref="char:EOLhyphen"/>tion of that Commission, and who made that Law too: I conceive a Law is able to limit as well as make it.</p>
+            <pb n="6" facs="tcp:110090:4"/>
+            <p> From weak Arguments you proceed to unhandsome Reflections, tho the Honour and Integrity of that worthy Gentleman are too high to be reached by you, Mr <hi>Penn</hi> hath purchased by his Generosity and Humanity, so good a Name, that 'tis only among those who are utter Strangers to him, that you can hope to be believ'd; after all the clamours of the Faction that he was a <hi>Jesuit</hi> in disguise, we have seen him stedfast to his first Principles, and that favourable juncture, which so many seem only to wait for, is passed, and he is still the same, tho he labours continu<g ref="char:EOLhyphen"/>ally to serve the Publick, and oblige private Persons of all Perswasions, and that gratis; for to the wonder of all that know him, he has declined both Publick and Private advantages, which others would eagerly persue; and it is like the rest of the Factious sly Insinuations, to rank <hi>Him</hi> and the <hi>Jesuits</hi> together, tho distant in their Principles; but he that could with confidence affirm without the least proof, that a <hi>Magna Charta</hi> for Liberty of Conscience, is contrary, both to all Sence and Reason, and our general interest, may venture to say any thing.</p>
+            <p n="3">3. We are now come to a standing Army, that migh<g ref="char:EOLhyphen"/>ty <hi>Bugbear,</hi> which you say, <hi>Is above all the greatest blow to a</hi> Magna Charta <hi>for Liberty,</hi> and then run on to tell us what violences the <hi>Souldiers</hi> have committed in <hi>France,</hi> which is so little to the purpose, that I wonder you were not asham'd to mention it, for what is their proceedings to us in <hi>England:</hi> There was a time when the <hi>Baptists</hi> thought (if you are one) a <hi>Standing Army</hi> very necessary, and I would fain know, why this must needs be a greater Grievance then that was? The <hi>Church of England</hi> wisht for, and raised it, so that they have no reason to complain, if their be any Irregularities committed by the <hi>Souldiers,</hi>
+               <pb n="7" facs="tcp:110090:4"/>why is not a due course taken to redress them? The <hi>King</hi> has publisht Methods for such to take as are grieved, to obtain Satisfaction. We might as well plead for the put<g ref="char:EOLhyphen"/>ting down all the Courts of Justice, because many are Ru<g ref="char:EOLhyphen"/>ined by their Judgments, tho just. Such as assert the necessi<g ref="char:EOLhyphen"/>ty of disbanding the Army at this time, when it is so plain the Instrument of our Peace and Safety: But it is the common practice to complain of an Army, when Men find their Designs obstructed by it: I might have answered all your Queries, by telling you, that the intended <hi>Magna Charta</hi> is no more affected by the dispensing Power, the Ecclesiastical Commission, or the Army, then the <hi>Penal Laws,</hi> and therefore if those Considerations have any weight, it is to perswade us to part with these, seeing they signifie nothing, for those reasons: But I have been more particular, and according to your desire given an hon<g ref="char:EOLhyphen"/>est, clear, and I hope satisfactory Answer to your three Points, and shall briefly reply to what follows in the close of your Paper, where you discover such a temper as I am very loath to call by its proper Name, when you desire we may have no more <hi>Quo Warranto's,</hi> an excellent Propo<g ref="char:EOLhyphen"/>sition, to desire so many little Independencies from his Majesty's Government, whereby he may be Affronted and Braved at any time, without dangers of Punishment, which tho shrouded with the Title of <hi>Preserving our Liberties,</hi> is design'd to abridge the <hi>King</hi> of his.</p>
+            <p>Your application of the Scripture is as unhappy as your Arguments; I appeal to all the World whether that Text of St <hi>Peter,</hi> 2 <hi>Pet.</hi> 2.19. does not more properly belong to those who by fair promises of a future Liberty, endea<g ref="char:EOLhyphen"/>vour to perswade unthinking Men to refuse that Blessing while they may possess it, and trust their Words, then to such as strive to encline them, not to throw away a present
+<pb n="8" facs="tcp:110090:5"/>certainty for future ungrounded hopes: The name of Li<g ref="char:EOLhyphen"/>berty as you observe, signifies nothing, without the Sub<g ref="char:EOLhyphen"/>stance, Security, and continuance of it, all which you are offered by this <hi>Magna Charta,</hi> if you do not foolishly re<g ref="char:EOLhyphen"/>ject your own Mercies. His <hi>Majesty</hi> hath graciously of<g ref="char:EOLhyphen"/>fered to Establish it upon sure Foundations, and hath doubt<g ref="char:EOLhyphen"/>less those things to propose in order to that good end, which will appear sufficient to Secure us, with those that desire to do so, if they be found Insufficient 'tis time then to complain, but it shews very much Arrogance and Immo<g ref="char:EOLhyphen"/>desty, to prejudg matters before you know them. A lit<g ref="char:EOLhyphen"/>tle time will, I doubt not, expose the folly of such methods by convincing the World, <hi>That the Royal Wisdom sees far<g ref="char:EOLhyphen"/>ther then these petty Polititians,</hi> and his Majesty hath not made such offers without being well Prepared to stop the Mouths of all those who are averss to compliance, meerly for want of understanding how firmly that Liberty may be Secured to us.</p>
+            <p>And now, Sir, I shall take my leave, desiring you the next time you Write, to let it be to the purpose, and not only a few Words put together, to fill Three or Four sides, for which no Body will be the better, except the <hi>Printer,</hi> and that among the Faction, who so highly applaud the most senseless Pamphlet, if it oppose the Government; a Spirit which I hope will at length yeeld to that of Peace, in order to which, I pray God we may know the things that belong unto our Peace before they be hid from us,</p>
+            <closer>
+               <signed>I am, Sir your very humble Servant.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:110090:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
